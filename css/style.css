@@ -148,6 +148,12 @@ h1 a {
 	padding: 0 10px;
 }
 
+/*.h11 {
+  line-height: 45px;
+  height: 30px;
+  font-size: 1em
+}*/
+
 .toggle-menu {
 	width: 50px;
 	height: 50px;
@@ -285,6 +291,7 @@ h2 {
   font-weight: 700;
 	font-size: 2.8em;
 	font-style: bold;
+  text-align: center;
 	/*font-variant: normal;*/
 }
 
@@ -292,6 +299,7 @@ h3 {
 	font-weight: 800;
 	font-size: 4em;
   font-style: bold;
+  text-align: center;
   /*font-variant: normal;*/
 }
 
@@ -302,7 +310,7 @@ p {
   /*font-variant: normal;*/
   /*text-transform: none;*/
   line-height: 30px;
-  text-align: center;
+  text-align: justify;
 }
 
 
